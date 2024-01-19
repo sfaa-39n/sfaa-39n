@@ -1,4 +1,8 @@
+# CPANEL
 
+available soon
+
+# PLESK
 ## Install Plesk
 
 make sure open or allow port 80, 443, 8443, 8447, 8880
@@ -50,5 +54,5 @@ Log in to Plesk -> `Tools and Settings` -> `Updates` -> `Add/Remove Components` 
 - Log in to Plesk -> `Websites & Domains` -> `Click between domain or subdomain` -> `Dashboard` -> `SSL/TLS Certificates` -> `Install a free basic certificate provided by Let's Encrypt` -> `Install` -> `check all options` -> `Get it free`
 - follow the instructions
 
-**Once you have finished following the instructions provided, please try reloading your domain or subdomain, SSL should be installed.**
+**Once you have finished following the instructions provided, please try reloading your domain or subdomain, SSL should be installed**
 
